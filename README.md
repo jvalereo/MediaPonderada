@@ -9,10 +9,7 @@
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
-# Diferenca Produto
-
-
-[![ NPM](https://img.shields.io/npm/l/licen)](https://github.com/jvalereo/DiferencaProduto/commit/e1c047d91d6f1e09257482a020ac1c8493a58154)
+# Media Ponderada
 
 
 <a href="#">
@@ -21,7 +18,7 @@
 
 # Sobre o Projeto
 
-- Programa que Calcule a diferença do produto, operações multiplicação, subtração e execulta o resultado na tela.
+- Programa que Calcula a media ponderada, operações adição,multiplicação, divisão e execulta o resultado na tela.
 - Outros fatores, você também pode  fazer testes, usando os buttons, Executa, Limpar, Sair, nesse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
