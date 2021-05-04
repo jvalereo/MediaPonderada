@@ -18,8 +18,8 @@
 
 # Sobre o Projeto
 
-- Programa que Calcula a media ponderada, operações adição,multiplicação, divisão e execulta o resultado na tela.
-- Outros fatores, você também pode  fazer testes, usando os buttons, Executa, Limpar, Sair, nesse projeto.
+- Programa que Calcula a media ponderada do aluno, insere as notas de portugues, matemática e ciência, operações adição,multiplicação, divisão e execulta o resultado na tela.
+- Outros fatores, você também pode  fazer testes aleatorio, usando os buttons, Executa, Limpar, Sair, nesse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
 
