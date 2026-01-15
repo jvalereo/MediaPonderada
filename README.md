@@ -1,19 +1,19 @@
 # Layout
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="350" src ="https://user-images.githubusercontent.com/25933386/117028257-ea112080-acd3-11eb-8efa-aae788ce54bf.jpg" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Layout" height ="400" width ="350" src ="https://user-images.githubusercontent.com/25933386/117028257-ea112080-acd3-11eb-8efa-aae788ce54bf.jpg" style="max-width: 100%;"></img></target>
 </a>
 
 
-<a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
 </a>
 
 # Media Ponderada
 
 
-<a href="#">
-<img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img></target>
 </a>
 
 # Sobre o Projeto
